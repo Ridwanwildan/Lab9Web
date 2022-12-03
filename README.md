@@ -7,7 +7,17 @@ Made With : [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?
 - Kelas : TI.21.B.1
 - Mata Kuliah : Pemrograman Web
 
-Latihan membuat program modular kali ini, yang akan dibuat adalah sebuah website dengan tampilan sederhana. Didalamnya terdapat dua tampilan yaitu home dan about. Pada home dan about, masing-masing punya header dan footer yang terpisah dan akan digabungkan.
+Daftar isi :
+
+- [Create Home Page](https://github.com/Ridwanwildan/Lab9Web#create-home-page)
+- [Create About Page](https://github.com/Ridwanwildan/Lab9Web#create-about-page)
+- [Create Modular File](https://github.com/Ridwanwildan/Lab9Web#create-modular-file)
+
+Latihan membuat program modular kali ini, yang akan dibuat adalah sebuah website dengan tampilan sederhana. Didalamnya terdapat dua tampilan yaitu home dan about. Pada home dan about, masing-masing punya header dan footer yang terpisah dan akan digabungkan. Hasilnya nanti akan seperti ini :
+
+![Gambar 1](Screenshoots/Capture1.PNG)
+
+![Gambar 2](Screenshoots/Capture2.PNG)
 
 ## Create Home Page
 
